@@ -3,9 +3,9 @@ import streamlit as st
 st.title("What Kind of Coffee Drink Are You?")
 st.write("Answer these questions to find out which coffee shop drink matches your personality!")
 
-st.image("images/icedlatte.jpg", width=200)
-st.image("images/cold_brew.jpg", width=200)
-st.image("images/matcha.jpg", width=200)
+st.image("Images/icedlatte.jpg", width=200)
+st.image("Images/cold_brew.jpg", width=200)
+st.image("Images/matcha.jpg", width=200)
 
 # Scores for each coffee type
 iced_latte = 0
